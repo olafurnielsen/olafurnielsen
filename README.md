@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @olafurnielsen
+- 👀 I’m interested in tehcnology, cooking, triathlon
+- 🌱 Despite coming from the open source side of things I’m currently learning .NET Core, Azure
+- 💞️ I’m looking to collaborate on cloud technologies and modern enterprise software development practices
+- 📫 How to reach me: on >at< olafur.org

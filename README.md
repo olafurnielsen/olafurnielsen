@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @olafurnielsen
-- 👀 I’m interested in tehcnology, cooking, triathlon
-- 🌱 Despite coming from the open source side of things I’m currently learning .NET Core, Azure
-- 💞️ I’m looking to collaborate on cloud technologies and modern enterprise software development practices
+- 👀 Progressive tech leader with 15+ years of experience. Usually residing at the intersection between business and IT. Hands-on technology enthusiast excited about cloud technology and modernizing the enteprise IT.
+- 💞️ Always open to discussing and collaborating on cloud technologies and modern enterprise software development practices
 - 📫 How to reach me: on >at< olafur.org

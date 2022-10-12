@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @olafurnielsen, programmer who got tangled up in management
-- 👀 Progressive tech leader with 15+ years of experience. Usually residing at the intersection between business and IT. Hands-on technology enthusiast excited about cloud technology and modernizing the enteprise IT.
-- 🎓 Certified: AWS Solutions Architect, Terraform Associate
+- 👋 Hi, I’m @olafurnielsen, programmer who has taken some side steps into management but fortunately got back coding
+- ⛅️ Cloud Architect & Co-Founder at www.orbit.is
+- 👀 Hands-on technology enthusiast excited about cloud technology and modernizing the enteprise IT.
+- 🎓 Certified: Azure Administrator Associate, AWS Solutions Architect, Terraform Associate
 - 💞️ Always open to discussing and collaborating on cloud technologies and modern enterprise software development practices
-- 📫 How to reach me: on >at< olafur.org
-
+- 📫 How to reach me: on <?> olafur.org
